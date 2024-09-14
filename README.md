@@ -1,1 +1,1 @@
-# sistema-academico
+Estrutura básica do projeto: implementaçõo de um sistema de login simples para professores e alunos.
